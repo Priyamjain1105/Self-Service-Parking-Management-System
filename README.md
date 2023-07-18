@@ -28,6 +28,7 @@ The provided code is an implementation of a self-service parking management syst
 The code begins with importing necessary modules such as time, pickle, csv, datetime, and os. These modules provide functionality for time manipulation, data serialization, CSV file handling, and operating system-related operations.
 
 The code defines several functions:
+
 date(): Retrieves the current date and returns it as a string.
 ptime(): Retrieves the current time and returns it as a string.
 main(): Displays the main menu and handles user input for different operations (entry, exit, managing, quit).
